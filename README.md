@@ -14,7 +14,7 @@ In addition to the required elements of this project, I added the following for 
 * Added multiple levels
 * Added large/elaborate level
 * Added parallax background
-* Added music
+* Added music created by myself
 * Polished the overall feel of the game by tweaking player settings
 * Added ability to wall-jump
 
